@@ -1,0 +1,22 @@
+# .NET build output
+bin/
+obj/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# Frontend
+node_modules/
+dist/
+*.local
+
+# Local tooling and crash dumps
+.claude/
+*.stackdump
+
+# OS files
+Thumbs.db
+.DS_Store
